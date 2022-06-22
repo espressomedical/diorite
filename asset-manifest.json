@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diorite/static/css/main.073c9b0a.css",
+    "main.js": "/diorite/static/js/main.ae34789e.js",
+    "static/js/787.d7d5228e.chunk.js": "/diorite/static/js/787.d7d5228e.chunk.js",
+    "index.html": "/diorite/index.html",
+    "main.073c9b0a.css.map": "/diorite/static/css/main.073c9b0a.css.map",
+    "main.ae34789e.js.map": "/diorite/static/js/main.ae34789e.js.map",
+    "787.d7d5228e.chunk.js.map": "/diorite/static/js/787.d7d5228e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ae34789e.js"
+  ]
+}
